@@ -3,3 +3,5 @@ The new line added to Alice file.
 More text added to Alice file.
 Added some more text.
 Added more n more text.
+------------------------
+Text changed in Alice.txt
