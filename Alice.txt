@@ -4,8 +4,12 @@ More text added to Alice file.
 Added some more text.
 Added more n more text.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ------------------------
 Text changed in Alice.txt
+=======
+Now learning stashing in git.
+>>>>>>> Stashed changes
 =======
 Now learning stashing in git.
 >>>>>>> Stashed changes
